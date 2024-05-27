@@ -8,6 +8,9 @@
 body {
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
+  background-image: url("./paper-753508_1280.jpg");
+  background-position: center; /* Centra la imagen horizontalmente y verticalmente */
+  background-repeat:repeat
 }
 header {
   min-height: 10vh;
